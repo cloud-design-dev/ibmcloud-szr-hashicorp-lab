@@ -1,0 +1,11 @@
+# IBM Cloud Region to deploy resources to. If not specified, the region will be selected at random.
+region = ""
+
+# IBM Cloud Resource Group to deploy resources to. If not specified, the default resource group will be used.
+resource_group = ""
+
+# Owner tag for resources. 
+owner = ""
+
+# Prefix to add to all deployed resources. If none is specified, the prefix will be automatically generated. 
+project_prefix = ""
